@@ -6,7 +6,6 @@
     <name>Sms</name>
     <description>Cordova SMS Send Plugin</description>
     <license>MIT</license>
-    <keywords>cordova,phonegap,sms</keywords>
 
       <engines>
       <engine name="cordova" version=">=3.0.0" />
